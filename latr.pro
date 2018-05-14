@@ -39,3 +39,7 @@ HEADERS += \
 FORMS += \
         mainwindow.ui \
     configwindow.ui
+
+ICON = scroll.icns
+
+RC_ICONS = scroll.ico

@@ -13,6 +13,9 @@
   <property name="windowTitle">
    <string>Latr</string>
   </property>
+  <property name="windowIcon">
+   <iconset theme="scroll.icns"/>
+  </property>
   <property name="unifiedTitleAndToolBarOnMac">
    <bool>false</bool>
   </property>
